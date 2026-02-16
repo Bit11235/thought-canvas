@@ -1,4 +1,4 @@
-◦
+# Nøth-Solq
 # thought-canvas
 quiet reflective space
 There is a quiet surface on the open web.
