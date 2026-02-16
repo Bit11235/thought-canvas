@@ -10,3 +10,5 @@ If you arrive, you may leave a single trace.
 If you do not arrive, the silence remains complete.
 
 https://text-reflection-space.lovable.app
+—
+A quiet system that accepts presence.
